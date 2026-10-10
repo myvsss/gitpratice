@@ -5,3 +5,7 @@ def make_multiplier(n):
 
 times3 = make_multiplier(3)
 print(times3(10))  # 30
+
+
+
+#添加注释
